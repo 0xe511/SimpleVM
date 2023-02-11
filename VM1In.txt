@@ -1,0 +1,5 @@
+Label .Origin_Of_Program
+DefVar 1 $Good_Var
+MovRegVarAdr 5 $Good_Var
+InitVarByVal $Good_Var 15
+GoTo .Origin_Of_Program
