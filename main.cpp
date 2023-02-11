@@ -11,7 +11,6 @@
 #include <fstream>
 #include <sstream>
 #include <cstdio>
-#include "PE.h"
 #include "UnrealVM.hpp"
 #include "VMSAssembler.hpp"
 
